@@ -328,8 +328,6 @@ if question:
     st.write(df)
 
 
-
-
 # Data Analysis Part
 
 # Function to analyze average duration of all videos in each channel
