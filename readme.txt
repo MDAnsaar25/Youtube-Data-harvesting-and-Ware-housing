@@ -19,7 +19,5 @@ Necessary Libraries
 7) matplotlib.pyplot - to visualize the fetched data in the form of plots
 8) Seaborn - to visualize the fetched data in the form of Charts.
 
-git config --global user.name "Mohamed Ansaar"
-git config --global user.email "ansaarbe125@gmail.com"
 
 
