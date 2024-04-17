@@ -231,8 +231,8 @@ def collect_and_store_data(channel_id):
             session.commit()
             session.close()
 
-# Rest of the code remains the same...
-#import streamlit as st
+
+#Streamlit part
 
 # Streamlit interface for user input and buttons
 st.title("YouTube Data Harvesting and Ware Housing")
@@ -279,7 +279,7 @@ if st.button("Show Channel Details"):
         st.warning("No channel details found in the database.")
 
 
-# Define Streamlit interface continued...
+# Data Analysis Part
 st.write('<h2 style="color:red;">Data Analysis</h2>', unsafe_allow_html=True)
 st.write("Choose a question from the dropdown menu to analyze the data:")
 
